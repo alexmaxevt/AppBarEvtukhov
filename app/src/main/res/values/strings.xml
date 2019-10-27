@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppBar</string>
+    <string name="app_submit">Сохранить</string>
+    <string name="app_save">данные сохранены</string>
+    <string name="app_note">Записная книжка</string>
+    <string name="app_setting">Settings</string>
+    <string name="app_calendar">Календарь</string>
+    <string name="app_start">Дата-время старта задачи:</string>
+    <string name="app_startOut">Дата-время старта задачи:\u0020</string>
+    <string name="app_end">Дата-время окончания задачи:</string>
+    <string name="app_endOut">Дата-время окончания задачи:\u0020</string>
+    <string name="app_button">OK</string>
+    <string name="app_error">Ошибка</string>
+    <string name="app_begin">старт:\u0020</string>
+    <string name="app_finish">\u0020окончаниe:\u0020</string>
+    <string name="app_link">http://myfile.org/</string>
+    <string name="app_back">Назад</string>
+    <string name="app_next">Вперёд</string>
+    <string name="app_text">TextView</string>
+    <string name="app_gallery">Галерея</string>
+</resources>
